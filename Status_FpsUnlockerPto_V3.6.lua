@@ -14,7 +14,7 @@ ScreenGui.ResetOnSpawn = false
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ScreenGui.Parent = game:GetService("CoreGui")
 
---// Notification Frame (Thông báo điện thoại)
+--// Notification Frame 
 local NotificationFrame = Instance.new("Frame")
 NotificationFrame.Size = UDim2.new(0, 300, 0, 60)
 NotificationFrame.Position = UDim2.new(0.5, -150, 0, -70) -- Bắt đầu từ trên màn hình
