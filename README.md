@@ -1,2 +1,1 @@
-# Script
-Status GUI + FPS Unlocker Script
+Just a some Roblox Script.
