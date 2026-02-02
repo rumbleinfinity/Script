@@ -1,1 +1,1 @@
-Just a some Roblox Script.
+I make Roblox Script.
